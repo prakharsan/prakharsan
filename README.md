@@ -3,14 +3,14 @@
 <h2> Hey there! I'm Prakhar.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
-<img src="https://raw.githubusercontent.com/prakharsan/prakharsan/main/prakhar.jpeg" height="25%" width="25%" aligh="right">
  🤔 &nbsp; Having fun exploring new techologies.<br>
  🎓 &nbsp; B.E in Electronics and Communication and M.Sc in Biologial Sciences from BITS Goa.<br>
  💼 &nbsp; Working as a Software Engineer Intern at Petasense.<br>
  🌱 &nbsp; Learning more about Full Stack Development.<br>
  ✉️ &nbsp;Email me at prakhar3099@gmail.com! I'll get back to you ASAP!<br>
  📄 &nbsp;Please have a look at my [Resume](https://drive.google.com/file/d/1A11jgjPnXi9SC0p7rgLOw1NlSv0LgNJt/view?usp=sharing) for more details about me.<br>
-
+<img src="https://raw.githubusercontent.com/prakharsan/prakharsan/main/prakhar.jpeg" height="25%" width="25%" aligh="right">
+ 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
