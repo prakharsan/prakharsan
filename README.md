@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.png">
+<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/main/assets/prakhar.png">
 
 <h2> Hey there! I'm Prakhar.</h2>
 
@@ -9,7 +9,7 @@
 - 💼 &nbsp; Working as a Software Engineer Intern at Petasense.
 - 🌱 &nbsp; Learning more about Full Stack Development.
 - ✉️ &nbsp;Email me at prakhar3099@gmail.com! I'll get back to you ASAP!
-- 📄 &nbsp;Please have a look at my [Résumé](https://drive.google.com/file/d/1A11jgjPnXi9SC0p7rgLOw1NlSv0LgNJt/view?usp=sharing) for more details about me.
+- 📄 &nbsp;Please have a look at my [Resume](https://drive.google.com/file/d/1A11jgjPnXi9SC0p7rgLOw1NlSv0LgNJt/view?usp=sharing) for more details about me.
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
