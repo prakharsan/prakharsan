@@ -25,6 +25,9 @@
   ![Express.js](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=express)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=flask)
+  ![Material UI](https://img.shields.io/badge/-Material%20UI-333333?style=flat&logo=materialui)
+  ![Yarn](https://img.shields.io/badge/-Yarn-333333?style=flat&logo=yarn)
+
   
 - 🛢 &nbsp;
   ![Postgres](https://img.shields.io/badge/-Postgres-333333?style=flat&logo=postgresql)
