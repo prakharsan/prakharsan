@@ -9,7 +9,7 @@
  💼 &nbsp; Working as a Software Engineer Intern at Petasense.<br>
  🌱 &nbsp; Learning more about Full Stack Development.<br>
  ✉️ &nbsp;Email me at <a href="mailto:prakhar3099@gmail..com">prakhar3099@gmail.com</a>. I'll get back to you ASAP!<br>
- 📄 &nbsp;Please have a look at my <a href="https://drive.google.com/file/d/1A11jgjPnXi9SC0p7rgLOw1NlSv0LgNJt/view">resume</a> for more details about me.<br>
+ 📄 &nbsp;Please have a look at my <a href="">resume</a> for more details about me.<br>
  
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
