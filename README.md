@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/main/assets/prakhar.png">
+<img src="https://raw.githubusercontent.com/prakharsan/prakharsan/main/prakhar.jpeg">
 
 <h2> Hey there! I'm Prakhar.</h2>
 
