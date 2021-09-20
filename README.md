@@ -4,6 +4,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 - 🤔 &nbsp; Having fun exploring new techologies.
+<br>
 - 🎓 &nbsp; B.E in Electronics and Communication and M.Sc in Biologial Sciences from BITS Goa.
 - 💼 &nbsp; Working as a Software Engineer Intern at Petasense.
 - 🌱 &nbsp; Learning more about Full Stack Development.
