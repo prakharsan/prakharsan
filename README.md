@@ -8,8 +8,8 @@
 - 🎓 &nbsp; B.E in Electronics and Communication and M.Sc in Biologial Sciences from BITS Goa.
 - 💼 &nbsp; Working as a Software Engineer Intern at Petasense.
 - 🌱 &nbsp; Learning more about Full Stack Development.
-- ✉️ &nbsp;You can shoot me an email at avsingh@umass.edu! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Résumé](https://drive.google.com/file/d/1A11jgjPnXi9SC0p7rgLOw1NlSv0LgNJt/view?usp=sharing) for more details about me.
+- ✉️ &nbsp;Email me at prakhar3099@gmail.com! I'll try to respond as soon as I can.\
+- 📄 &nbsp;Please have a look at my [Résumé](https://drive.google.com/file/d/1A11jgjPnXi9SC0p7rgLOw1NlSv0LgNJt/view?usp=sharing) for more details about me.
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
