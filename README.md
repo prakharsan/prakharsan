@@ -9,7 +9,7 @@
  🌱 &nbsp; Learning more about Full Stack Development.<br>
  ✉️ &nbsp;Email me at prakhar3099@gmail.com! I'll get back to you ASAP!<br>
  📄 &nbsp;Please have a look at my [Resume](https://drive.google.com/file/d/1A11jgjPnXi9SC0p7rgLOw1NlSv0LgNJt/view?usp=sharing) for more details about me.<br>
-<img src="https://raw.githubusercontent.com/prakharsan/prakharsan/main/prakhar.jpeg" height="25%" width="25%" aligh="right">
+<img src="https://raw.githubusercontent.com/prakharsan/prakharsan/main/prakhar.jpeg" height="25%" width="25%" align="right">
  
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
