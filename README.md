@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/prakharsan/prakharsan/main/prakhar.jpeg" width="50%" height="50%">
+<img src="https://raw.githubusercontent.com/prakharsan/prakharsan/main/prakhar.jpeg" width="25%" height="25%">
 
 <h2> Hey there! I'm Prakhar.</h2>
 
