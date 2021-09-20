@@ -58,4 +58,19 @@
 <a href="mailto:avsingh@umass.edu"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
 </p>
 
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/ashwanisng/count.svg" />
+</p>
+
+
+<div align="center">
+
+### Show some ❤️ by starring some of the repositories!
+
+</div>
+
+
+
 ⭐️ From [AVS1508](https://github.com/AVS1508)
