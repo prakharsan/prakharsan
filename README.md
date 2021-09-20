@@ -1,5 +1,3 @@
-<img src="https://raw.githubusercontent.com/prakharsan/prakharsan/main/prakhar.jpeg" width="25%" height="25%">
-
 <h2> Hey there! I'm Prakhar.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
@@ -10,6 +8,8 @@
 - 🌱 &nbsp; Learning more about Full Stack Development.
 - ✉️ &nbsp;Email me at prakhar3099@gmail.com! I'll get back to you ASAP!
 - 📄 &nbsp;Please have a look at my [Resume](https://drive.google.com/file/d/1A11jgjPnXi9SC0p7rgLOw1NlSv0LgNJt/view?usp=sharing) for more details about me.
+
+<img src="https://raw.githubusercontent.com/prakharsan/prakharsan/main/prakhar.jpeg" width="25%" height="25%" align="right">
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
