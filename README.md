@@ -1,8 +1,9 @@
-<img src="https://raw.githubusercontent.com/prakharsan/prakharsan/main/prakhar.jpeg" height="25%" width="25%" aligh="right">
+
 
 <h2> Hey there! I'm Prakhar.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
+<img src="https://raw.githubusercontent.com/prakharsan/prakharsan/main/prakhar.jpeg" height="25%" width="25%" aligh="right">
  🤔 &nbsp; Having fun exploring new techologies.<br>
  🎓 &nbsp; B.E in Electronics and Communication and M.Sc in Biologial Sciences from BITS Goa.<br>
  💼 &nbsp; Working as a Software Engineer Intern at Petasense.<br>
