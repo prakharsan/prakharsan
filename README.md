@@ -6,7 +6,7 @@
 <img src="https://raw.githubusercontent.com/prakharsan/prakharsan/main/prakhar.jpeg" height="25%" width="25%" align="right">
  🤔 &nbsp; Having fun exploring new techologies.<br>
  🎓 &nbsp; B.E in Electronics and Communication and M.Sc in Biologial Sciences from BITS Goa.<br>
- 💼 &nbsp; Working as a Software Engineer Intern at Petasense.<br>
+ 💼 &nbsp; Working as a Software Engineer at Deutsche Bank<br>
  🌱 &nbsp; Learning more about Full Stack Development.<br>
  ✉️ &nbsp;Email me at <a href="mailto:prakhar3099@gmail..com">prakhar3099@gmail.com</a>. I'll get back to you ASAP!<br>
  📄 &nbsp;Please have a look at my <a href="https://docs.google.com/document/d/1G_T-NuxShn-BYmDczzvQk-SKde8vqNoMfPZmBnuOklE/edit?usp=sharing">resume</a> for more details about me.<br>
@@ -14,6 +14,7 @@
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
+  ![Go](https://img.shields.io/badge/-Go-333333?style=flat&logo=go)
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
